@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 😀
 👋 Welcome to my GitHub profile!
 
 🎓 I'm currently pursuing my Bacc. Ing. Comp. at Algebra University
