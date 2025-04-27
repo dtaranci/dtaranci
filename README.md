@@ -13,15 +13,15 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/dtaranci/rvs19-spa-dz-01/tree/master">Project 0a (C++ homework)</a></td>
+      <td><a href="https://github.com/dtaranci/rvs19-spa-dz-01/tree/master">Project 0a (C++ Flower animation)</a></td>
       <td>2/2 points</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/dtaranci/SPA-homework-02">Project 0b (C++ homework 2)</a></td>
+      <td><a href="https://github.com/dtaranci/SPA-homework-02">Project 0b (C++ Game of life)</a></td>
       <td>2/2 points</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/dtaranci/DSA-homework-03">Project 0c (C++ homework 3)</a></td>
+      <td><a href="https://github.com/dtaranci/DSA-homework-03">Project 0c (C++ Pathfinder)</a></td>
       <td>2/2 points</td>
     </tr>
     <tr>
