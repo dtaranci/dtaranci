@@ -13,7 +13,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/dtaranci/rvs19-spa-dz-01/tree/master">Project 0a (C++ Flower animation)</a></td>
+      <td><a href="https://github.com/dtaranci/rvs19-spa-dz-01/tree/master">Project 0a (C++ SFML Flower animation)</a></td>
       <td>2/2 points</td>
     </tr>
     <tr>
