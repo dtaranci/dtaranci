@@ -41,7 +41,7 @@
       <td>5</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/orgs/Team561/repositories">Project 5 (Git + documentation based group project)</a></td>
+      <td><a href="https://github.com/orgs/Team561/repositories">Project 5 (Git + Azure DevOps + project documentation based group project)</a></td>
       <td>5</td>
     </tr>
   </tbody>
